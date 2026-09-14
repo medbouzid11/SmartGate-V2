@@ -60,15 +60,7 @@ Système embarqué complet basé sur un **ESP32** permettant de piloter un moteu
 ---
 
 ## 📱 Aperçu de l'Interface Web
+<img width="1898" height="908" alt="image" src="https://github.com/user-attachments/assets/44b955c0-9af3-4587-b1a1-e65be77cd59f" />
 
-```text
-+---------------------------------------+
-| ⚙️                                    |
-|         WELCOME TO HOUSE GARBAA       |
-|          AUTOMATIC GATE CONTROL       |
-|                                       |
-|               (  OPEN  )              |
-|                                       |
-| Realized by Bouzid Aluminium &        |
-| Automatsation                         |
+
 +---------------------------------------+# SmartGate-V2
